@@ -1,5 +1,13 @@
 [build]
   functions = "functions"
 
+[functions]
+  included_files = ["api/*.json", "api/**/*.json"]
+
+[[headers]]
+  for = "/api/*"
+  [headers.values]
+    Access-Control-Allow-Origin = "*"
+
 [dev]
   publish = "dist"

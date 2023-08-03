@@ -1,7 +1,12 @@
 {
-    "result": [
-        "Poliomielite",
-        "Sarampo",
-        "COVID-19"
+    "sicks": [
+      "Poliomielite",
+      "Sarampo",
+      "COVID-19"
+    ],
+    "immunizers": [
+      "Imunizante 1",
+      "Imunizante 2",
+      "Imunizante 3"
     ]
 }

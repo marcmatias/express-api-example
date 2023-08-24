@@ -1,12 +1,26 @@
 {
     "sicks": [
+      "Difteria",
       "Poliomielite",
-      "Sarampo",
-      "COVID-19"
+      "Tetano"
     ],
     "immunizers": [
-      "Imunizante 1",
-      "Imunizante 2",
-      "Imunizante 3"
+      "Oral Poliomielite (VOP)",
+      "Pentavalente (DTP+HB+Hib) (PENTA)",
+      "Poliomielite inativada (VIP)",
+      "Tetraviral (sarampo, rubéola, caxumbae varicela)",
+      "Tríplice Bacteriana (DTP)",
+      "Tríplice Viral (SCR)"
+    ],
+    "years": [
+      "2000",
+      "2022"
+    ],
+    "doses": [
+      "1a dose",
+      "1a reforço",
+      "2a dose",
+      "2a reforço",
+      "3a dos"
     ]
 }
